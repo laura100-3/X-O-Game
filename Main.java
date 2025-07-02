@@ -1,5 +1,10 @@
 import javax.swing.*;
 import java.awt.*;
+try {
+    UIManager.setLookAndFeel("javax.swing.plaf.nimbus.NimbusLookAndFeel");
+} catch (Exception e) {
+    e.printStackTrace();
+}
 
 public class Main {
     public static void main(String[] args) {

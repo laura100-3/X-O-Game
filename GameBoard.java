@@ -1,6 +1,19 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+boardPanel = new JPanel(new GridLayout(4, 4)); // or 5x5
+boardPanel.setBackground(new Color(48, 25, 52)); // Dark purple
+
+for (int i = 0; i < buttons.length; i++) {
+    for (int j = 0; j < buttons[i].length; j++) {
+        buttons[i][j] = new JButton();
+        buttons[i][j].setFont(new Font("Verdana", Font.BOLD, 32));
+        buttons[i][j].setBackground(new Color(132, 94, 194)); // Light purple
+        buttons[i][j].setForeground(Color.WHITE);
+        buttons[i][j].setFocusPainted(false);
+        boardPanel.add(buttons[i][j]);
+    }
+}
 
 public class GameBoard extends JPanel {
     private JButton[][] buttons;

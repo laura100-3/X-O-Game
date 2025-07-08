@@ -7,7 +7,7 @@ This is a Java Swing implementation of the classic Tic Tac Toe game with a twist
 
   Features
 - Among Us Theme: Green Crewmate and Red Impostor characters as game pieces
-- Animated Background: Space-themed with subtle animations
+- Animated Background: space-themed with subtle animations
 - Name Entry: Players can enter their names before starting the game
 - Game Logic: Complete Tic Tac Toe implementation with win/draw detection
 - User Interface: Clean, modern design with Among Us-inspired elements

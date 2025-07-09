@@ -50,4 +50,4 @@ The code is organized into several key components:
 - UI Components: Clean, modern interface with proper spacing and colors
 - Status Display: Shows current player's turn and game results
 
-Enjoy playing X and O with your favorite Among Us characters! 🚀
+  Enjoy playing X and O with your favorite Among Us characters! 

@@ -3,7 +3,8 @@ X and O Game with Among Us Theme
 A classic Tic Tac Toe game with an Among Us theme featuring Crewmate and Impostor characters as the X and O pieces.
 
         Overview
-This is a Java Swing implementation of the classic Tic Tac Toe game with a twist - it features an Among Us theme where players can choose to be either a Crewmate (green X) or an Impostor (red O). The game includes a welcome screen for name entry, animated space-themed backgrounds, and full game functionality.
+This is a Java Swing implementation of the classic Tic Tac Toe game with a twist 
+It features an Among Us theme where players can choose to be either a Crewmate (green X) or an Impostor (red O). The game includes a welcome screen for name entry, animated space-themed backgrounds, and full game functionality.
 
   Features
 - Among Us Theme: Green Crewmate and Red Impostor characters as game pieces
